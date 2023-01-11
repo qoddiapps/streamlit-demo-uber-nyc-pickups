@@ -1,1 +1,1 @@
-web: streamlit run streamlit_app.py --server.port=$PORT --server.enableWebsocketCompression=false
+web: streamlit run streamlit_app.py --server.port=$PORT --server.enableCORS=false --server.enableWebsocketCompression=false
