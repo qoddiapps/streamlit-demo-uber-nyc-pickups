@@ -8,5 +8,5 @@ A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github
 
 ## Deploy on Qoddi App Platform
 
-Fork this repository and deploy it
-![Complete tutorial](https://devcenter.qoddi.com/deploy-your-streamlit-app-on-qoddi/)
+Fork this repository and deploy it.
+[Complete tutorial](https://devcenter.qoddi.com/deploy-your-streamlit-app-on-qoddi/)
