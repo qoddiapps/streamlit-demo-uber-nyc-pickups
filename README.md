@@ -6,12 +6,8 @@ A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github
 
 ![Final App Animation](https://github.com/streamlit/demo-uber-nyc-pickups/raw/main/uber_demo.png "Uber demo")
 
-## Run this demo locally
+## Deploy on Qoddi App Platform
 ```
-pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
+Fork this repository and deploy it
+![Complete tutorial](https://devcenter.qoddi.com/deploy-your-streamlit-app-on-qoddi/)
 ```
-
-### Questions? Comments?
-
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
