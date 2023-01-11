@@ -7,7 +7,6 @@ A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github
 ![Final App Animation](https://github.com/streamlit/demo-uber-nyc-pickups/raw/main/uber_demo.png "Uber demo")
 
 ## Deploy on Qoddi App Platform
-```
+
 Fork this repository and deploy it
 ![Complete tutorial](https://devcenter.qoddi.com/deploy-your-streamlit-app-on-qoddi/)
-```
